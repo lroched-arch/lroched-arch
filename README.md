@@ -1,6 +1,6 @@
 # Lídia Roche
 
-**Desenvolupadora web amb focus en backend · 8 anys coordinant equips i projectes**
+**Desenvolupadora web orientada al backend · 8 anys coordinant equips i projectes**
 
 Construeixo aplicacions web pensant en el que hi ha darrere: dades ben estructurades, APIs clares i codi que un altre equip pugui entendre i mantenir.
 Arribo a la programació després de gairebé una dècada organitzant persones, horaris i serveis en l'àmbit educatiu, i això es nota en com treballo: planifico, documento i em comunico.
@@ -44,6 +44,8 @@ Actualment completo el cicle de **Desenvolupament d'Aplicacions Web (DAW)** a l'
 ---
 
 ## Activitat a GitHub
+
+Resum de la meva activitat i dels llenguatges que més faig servir als meus repositoris.
 
 ![Estadístiques de contribucions i llenguatges de lroched-arch a GitHub](https://github-readme-stats.vercel.app/api?username=lroched-arch&show_icons=true&hide_border=true)
 
