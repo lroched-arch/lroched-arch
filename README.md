@@ -56,4 +56,5 @@ Resum de la meva activitat i dels llenguatges que més faig servir als meus repo
 Oberta a pràctiques i primeres oportunitats en desenvolupament backend o full stack.
 
 - **Correu:** [lroched@insjoaquimmir.cat](mailto:lroched@insjoaquimmir.cat)
+- **LinkedIn:** [perfil de Lídia Roche a LinkedIn](https://www.linkedin.com/in/l%C3%ADdiarochedw/)
 - **Portfoli:** [repositori del meu portfoli](https://github.com/lroched-arch/portfolio)
